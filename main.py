@@ -36,6 +36,7 @@ elif currentTime in morning:
 def talk(text):
     speech_engine.say(text)
     speech_engine.runAndWait()
+    print(text)
 
 # listen to speech
 def take_command():
