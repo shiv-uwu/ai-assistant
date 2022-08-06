@@ -9,7 +9,7 @@ Simple AI Chatbot that recognizes speech and provides output. Feel free to edit 
 Install basic modules
 
 ```bash
-pip install modules.txt
+pip install -r requirements.txt
 ```
     
 ## Screenshots
